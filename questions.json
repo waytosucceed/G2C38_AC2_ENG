@@ -1,0 +1,226 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "What did Mia find in the forest?",
+    "options": [
+      "A shiny golden paintbrush",
+      "A blue butterfly",
+      "A colourful flower"
+    ],
+    "correct": 0,
+    "explanation": "Mia found a shiny golden paintbrush in the forest, which later turned out to be magical."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "What did the butterfly do after Mia painted it?",
+    "options": [
+      "It flew away and never returned.",
+      "It danced around Mia's room.",
+      "It turned into a rainbow."
+    ],
+    "correct": 2,
+    "explanation": "After Mia painted it, the butterfly turned into a rainbow, showing the magical effects of her paintbrush."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "What did Mia realise about her magic paintbrush?",
+    "options": [
+      "It could only paint flowers.",
+      "It could create joy for everyone.",
+      "It was broken and didn’t work."
+    ],
+    "correct": 1,
+    "explanation": "Mia realised that her magic paintbrush could bring joy to everyone through her beautiful paintings."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Choose the word, which is a noun:",
+    "options": [
+      "Beautiful",
+      "Under",
+      "Truck"
+    ],
+    "correct": 2,
+    "explanation": "\"Truck\" is a noun because it is the name of a thing, while \"Beautiful\" is an adjective and \"Under\" is a preposition."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Look at the image and choose the activity which is going around: <br> <img src='./5.png' width='140px'/>",
+    "options": [
+      "Play",
+      "Swim",
+      "Fly"
+    ],
+    "correct": 1,
+    "explanation": "The image shows a boy swimming, so the correct answer is \"Swim.\""
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Complete the sentence to match the picture with the best preposition. <br> <img src='./6.png' width='140px'/>",
+    "sentence": "The cat is hiding ___ the bed.",
+    "options": [
+      "at",
+      "under",
+      "on"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is \"under\" as the image shows a cat hiding under the bed."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Complete the sentence to match the picture with the best preposition. <br> <img src='./7.png' width='140px'/>",
+    "sentence": "The book is ___ the table.",
+    "options": [
+      "on",
+      "in",
+      "for"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is \"on\" since the book is placed on top of the table."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Complete the sentence to match the picture with the best preposition. <br> <img src='./8.png' width='140px'/>",
+    "sentence": "The picture is ___ the wall.",
+    "options": [
+      "under",
+      "of",
+      "on"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is \"on\" because the picture is hanging on the wall."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Complete the sentence to match the picture with the best preposition. <br> <img src='./9.png' width='140px'/>",
+    "sentence": "The cookies are ___ the jar.",
+    "options": [
+      "for",
+      "in",
+      "above"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is \"in\" since the cookies are placed inside the jar."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Complete the sentence to match the picture with the best preposition. <br> <img src='./10.png' width='140px'/>",
+    "sentence": "The bird is flying ___ the trees.",
+    "options": [
+      "on",
+      "under",
+      "above"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is \"above\" as the bird is shown flying higher than the trees."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Select the most appropriate preposition: This gift is ___ my friend.",
+    "options": [
+      "in",
+      "for",
+      "at"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is \"for\" because the gift is meant for the friend."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Select the most appropriate preposition: The dog is sleeping ___ the couch.",
+    "options": [
+      "for",
+      "on",
+      "of"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is \"on\" as the dog is lying on the surface of the couch."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Select the most appropriate preposition: The pencil is ___ the desk.",
+    "options": [
+      "in",
+      "of",
+      "under"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is \"under\" as the pencil is positioned below the desk."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Select the most appropriate preposition: The top ___ the cake is very sweet.",
+    "options": [
+      "of",
+      "in",
+      "on"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is \"of\" as it describes the part of the cake."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Select the most appropriate preposition: The cat jumped ___ the table.",
+    "options": [
+      "on",
+      "in"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is \"on\" as the cat landed on top of the table."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Which of the following is a preposition?",
+    "options": [
+      "Run",
+      "On",
+      "Happy"
+    ],
+    "correct": 1,
+    "explanation": "\"On\" is a preposition as it indicates location."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Which of the following is a preposition?",
+    "options": [
+      "In",
+      "Jump",
+      "Blue"
+    ],
+    "correct": 0,
+    "explanation": "\"In\" is a preposition because it describes location."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Which of the following is a preposition?",
+    "options": [
+      "Play",
+      "Under",
+      "Fast"
+    ],
+    "correct": 1,
+    "explanation": "\"Under\" is a preposition as it indicates position."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Which of the following is a preposition?",
+    "options": [
+      "Dog",
+      "Run",
+      "Above"
+    ],
+    "correct": 2,
+    "explanation": "\"Above\" is a preposition because it indicates location."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Which of the following is a preposition?",
+    "options": [
+      "Sit",
+      "For",
+      "Big"
+    ],
+    "correct": 1,
+    "explanation": "\"For\" is a preposition as it describes a relationship."
+  }
+]
